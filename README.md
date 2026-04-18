@@ -60,3 +60,10 @@ A rough idea for now
 This will probably run like shit as a website, I don't think visualizing a large dataset is going to be easy, so will have to look into that. More javascript stuff I do not want to do. 
 Also, can't really run an LLM online. Locally is fine for dev, this is fine for now, just a note for future.
 I don't want this to use some cloud LLM, because then it just feels like a GPT Wrapper and that is lame.
+
+
+
+#### Roadmap (Pre-LLM stuff)
+- Implement statistical handler.
+- Design basic synthetic data generator.
+- Front end refinements.

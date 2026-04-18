@@ -1,0 +1,11 @@
+order_id,date,customer_name,drink,size,price,quantity,total,payment_method,loyalty_member
+1001,2026-04-01,Ava Chen,Latte,medium,4.75,1,4.75,card,true
+1002,2026-04-01,Marcus Ortiz,Americano,small,3.25,2,6.50,cash,false
+1003,2026-04-02,Priya Shah,Cold Brew,large,5.50,1,5.50,card,true
+1004,2026-04-02,Luke Fontaine,Cappuccino,medium,4.50,1,4.50,mobile,false
+1005,2026-04-03,Nadia Rahman,Matcha Latte,large,5.95,1,5.95,card,true
+1006,2026-04-04,Jonas Weber,Drip Coffee,small,2.75,3,8.25,cash,false
+1007,2026-04-05,Sofia Russo,Mocha,medium,5.25,1,5.25,mobile,true
+1008,2026-04-05,Kwame Asante,Espresso,small,2.95,2,5.90,card,false
+1009,2026-04-06,Elena Park,Flat White,medium,4.85,1,4.85,mobile,true
+1010,2026-04-07,Ben Hollis,Chai Latte,large,5.25,2,10.50,card,false
