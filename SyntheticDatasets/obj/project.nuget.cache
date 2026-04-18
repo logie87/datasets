@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oullUR0BA58=",
+  "success": true,
+  "projectFilePath": "/Users/logan/Documents/Code/datasets/SyntheticDatasets/SyntheticDatasets.csproj",
+  "expectedPackageFiles": [
+    "/Users/logan/.nuget/packages/microsoft.aspnetcore.openapi/10.0.6/microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "/Users/logan/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
