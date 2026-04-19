@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyntheticDatasets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3984558685d15d33bcee282365617c5ad862171")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162c354cfd7fb060116cac32b5220f033ec4c687")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyntheticDatasets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyntheticDatasets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
